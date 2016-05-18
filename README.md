@@ -1,6 +1,6 @@
 # WhatsAppShareDemoBug
 
-When sharing content via WhatsApp while an appareance proxy for `backIndicatorImage` and `backIndicatorTransitionMaskImage` is set, the back button no longer works.
+When sharing content via WhatsApp while an appearance proxy for `backIndicatorImage` and `backIndicatorTransitionMaskImage` is set, the back button no longer works.
 
 Steps to reproduce
   1. Share content via WhatsApp.

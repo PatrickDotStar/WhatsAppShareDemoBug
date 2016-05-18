@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  WhatsAppShareDemoBug
-//
-//  Created by Patrick Pöchhacker on 18.05.16.
-//  Copyright © 2016 willhaben. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
